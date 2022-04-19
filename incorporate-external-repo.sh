@@ -47,9 +47,9 @@ TMP_CLONE_PATH="${TMP_DIR}/${PROJECT_NAME}"
 TMP_REMOTE_PATH="${TMP_DIR}/tmp-remote.git"
 
 # <upstream project info>
-OWNER_NAME="gabrielfalcao"
-PROJECT_NAME="lettuce"
-UPSTREAMS_MAIN_BRANCH_NAME=master  # this could be "main" for newer github projects or "master" for old ones.
+OWNER_NAME="nytm"
+PROJECT_NAME="wf-project-vi"
+UPSTREAMS_MAIN_BRANCH_NAME=main  # this could be "main" for newer github projects or "master" for old ones.
 # </upstream project info>
 
 HISTORY_INTEGRATION_BRANCH_NAME="import-${PROJECT_NAME}-with-history"
